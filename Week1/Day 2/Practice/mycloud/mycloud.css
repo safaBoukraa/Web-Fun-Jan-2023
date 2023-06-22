@@ -1,0 +1,46 @@
+    .l2{ color:white;}
+    h1{ 
+    
+        
+        color: rgb(21, 192, 226);
+        font-size: 60px
+        color: cyan;
+    
+        background-color: black; 
+        text-align:left;
+        font-weight: bold;
+        font-style:normal;
+        font-family: cursive;
+   
+    }
+
+    h1::first-letter{
+        color:white; 
+    }
+    h1::second-letter{
+        color:white;
+    }
+
+    h2{ 
+
+        color: rgb(238, 243, 243);
+        font-size:60px
+        color:cyan;
+        background-color:rebeccapurple;
+        text-align:center;
+        font-weight: normal;
+        font-style:normal;
+        font-family: cursive;
+    }
+h3{
+    color: rgb(18, 3, 82);
+        font-size:60px
+        color:cyan;
+        background-color: cadetblue;
+        text-align: right;
+        font-weight: normal;
+        font-style:normal;
+        font-family: cursive;
+        text-decoration: underline;
+    }
+}
